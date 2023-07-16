@@ -82,7 +82,7 @@ const Home = () => {
             <button>Explore Liverr Business</button>
           </div>
           <div className="item">
-            <img src="./img/businessdesktop.png" alt="" />
+            <img src="./img/desktopb.png" alt="" />
           </div>
         </div>
       </div>
