@@ -44,7 +44,7 @@ const Navbar = () => {
           {!currentUser && <button>Join</button>}
           {currentUser && (
             <div className="user" onClick={() => setOpen(!open)}>
-              <img src="../../public/userPhoto.png" alt="" />
+              <img src="../../public/img/userPhoto.png" alt="" />
               <span>{currentUser?.userName}</span>
               {open && (
                 <div className="options">
