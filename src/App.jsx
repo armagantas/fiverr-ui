@@ -10,6 +10,7 @@ import Add from "./pages/add/Add";
 import Messages from "./pages/messages/Messages";
 import Message from "./pages/message/Message";
 import "./app.scss";
+import Gigs from "./pages/gigs/Gigs";
 function App() {
   const Layout = () => {
     return (
@@ -32,7 +33,7 @@ function App() {
         },
         {
           path: "/gigs",
-          element: <MyGigs />,
+          element: <Gigs />,
         },
         {
           path: "/gig/:id",

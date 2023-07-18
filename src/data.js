@@ -111,7 +111,7 @@ export const projects = [
 export const gigs = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/580151/pexels-photo-580151.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "./img/testPhoto1.png",
     pp: "https://images.pexels.com/photos/720598/pexels-photo-720598.jpeg?auto=compress&cs=tinysrgb&w=1600",
     desc: "I will create ai art character from your images and prompts",
     price: 59,
