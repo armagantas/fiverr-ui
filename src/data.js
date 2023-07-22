@@ -3,57 +3,57 @@ export const cards = [
     id: 1,
     title: "AI Artists",
     desc: "Add talent to AI",
-    img: "/img/AI.jpeg",
+    img: "https://images.pexels.com/photos/7532110/pexels-photo-7532110.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
   {
     id: 2,
     title: "Logo Design",
     desc: "Build yor brand",
-    img: "/img/logo.png",
+    img: "https://images.pexels.com/photos/11295165/pexels-photo-11295165.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
   {
     id: 3,
     title: "WordPress",
     desc: "Customize your site",
-    img: "/img/wordpress.jpeg",
+    img: "https://images.pexels.com/photos/4371669/pexels-photo-4371669.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
   {
     id: 4,
     title: "Voice Over",
     desc: "Share your message",
-    img: "/img/voiceOver.png",
+    img: "https://images.pexels.com/photos/7608079/pexels-photo-7608079.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
   {
     id: 5,
     title: "Video Explainer",
     desc: "Engage your audience",
-    img: "/img/videoExp.png",
+    img: "https://images.pexels.com/photos/13388047/pexels-photo-13388047.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
   {
     id: 6,
     title: "Social Media",
     desc: "Reach more customers",
-    img: "/img/socialMedia.png",
+    img: "https://images.pexels.com/photos/11378899/pexels-photo-11378899.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
   {
     id: 7,
     title: "SEO",
     desc: "Unlock growth online",
-    img: "/img/seo.jpeg",
+    img: "https://images.pexels.com/photos/4820241/pexels-photo-4820241.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
   {
     id: 8,
     title: "Illustration",
     desc: "Color you dreams",
-    img: "/img/illustration.jpeg",
+    img: "https://images.pexels.com/photos/15032623/pexels-photo-15032623.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   },
 ];
 
 export const projects = [
   {
     id: 1,
-    img: "./img/webphoto1.jpeg",
-    pp: "./img/person1.webp",
+    img: "https://images.pexels.com/photos/1462935/pexels-photo-1462935.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    pp: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1600",
     cat: "Web and Mobile Design",
     username: "Anna Bell",
   },
@@ -111,7 +111,7 @@ export const projects = [
 export const gigs = [
   {
     id: 1,
-    img: "./img/testPhoto1.png",
+    img: "https://images.pexels.com/photos/580151/pexels-photo-580151.jpeg?auto=compress&cs=tinysrgb&w=1600",
     pp: "https://images.pexels.com/photos/720598/pexels-photo-720598.jpeg?auto=compress&cs=tinysrgb&w=1600",
     desc: "I will create ai art character from your images and prompts",
     price: 59,
